@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL using a PERFORM VARYING loop. The bug.cob file contains the erroneous code, while bugSolution.cob provides the corrected version. The error arises from an incorrect understanding of the loop's termination condition.  The solution clarifies how to correctly manage the loop's counter to avoid this common pitfall.
